@@ -3,3 +3,4 @@ Konsisten belajar tentang programming
 Memahami konsep oop
 Memahami konsep mvc
 Memahami framework CI dan Laravel
+Membuat Design Web
