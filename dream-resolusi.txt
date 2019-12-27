@@ -1,0 +1,5 @@
+DREAM RESOLUSI
+Konsisten belajar tentang programming
+Memahami konsep oop
+Memahami konsep mvc
+Memahami framework CI dan Laravel
